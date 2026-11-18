@@ -34,7 +34,7 @@ Once all sections are filled in, click “View profile” to see how it appears 
 The screen below shows a sample completed LinkedIn profile page, illustrating how the name, headline, About section, and Experience section appear once the profile has been filled in.
 <img width="572" height="439" alt="image" src="https://github.com/user-attachments/assets/be7d299c-31c9-49fc-9f8f-63853af11bd6" />
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2026-11-04 105827" src="https://github.com/user-attachments/assets/0ce580e3-6010-4349-b1c1-da7647f47ad8" />
+<img width="1691" height="907" alt="image" src="https://github.com/user-attachments/assets/cc9a6fcb-847a-4efa-b452-329f9d11f0c4" />
 
 A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
 ## RESULT
